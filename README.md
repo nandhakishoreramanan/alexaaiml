@@ -1,4 +1,4 @@
-# RA2512704010011 NANDHA KISHORE RT echnical Domain Recruitment 2025 TASK
+# RA2512704010011 NANDHA KISHORE R Technical Domain Recruitment 2025 TASK
 # Problem Statement
 In the current world for tasks like surviellence, autonomus driving object detection has become an essential tool. To simplify this task this project - AI-Powered Object Detection has been done
 # Tech stack used
